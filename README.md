@@ -1,7 +1,7 @@
 #RealTimeBusTracker
 
 <b>Title of the project:</b> Real Time Bus Tracker <br>
-<b>Description of the project:</b> This project shows the movement of a bus from MIT's campus to Harvard at discrete stops. <br>
+<b>Description of the project:</b> This project shows the movement of a bus from MIT's campus to Harvard at discrete stops. We've changed it to create a white background as it's a cool effect. You can use this map to seee exactly where the bus will stop and plan out your day trip between MIT and Harvard.<br>
 <b>How to Run:</b> Reload and push the button at the top. <br>
 <b>Roadmap of future improvements:</b> Additional Mapping tools / Buttons to change layout. <br>
 <br>
