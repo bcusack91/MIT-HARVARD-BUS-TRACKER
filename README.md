@@ -1,9 +1,9 @@
 #RealTimeBusTracker
 
-Title of the project: Real Time Bus Tracker <br>
-Description of the project: This project shows the movement of a bus from MIT's campus to Harvard at discrete stops. <br>
-How to Run: Reload and push the button at the top. <br>
-Roadmap of future improvements: Additional Mapping tools / Buttons to change layout. <br>
+<b>Title of the project:</b> Real Time Bus Tracker <br>
+<b>Description of the project:</b> This project shows the movement of a bus from MIT's campus to Harvard at discrete stops. <br>
+<b>How to Run:</b> Reload and push the button at the top. <br>
+<b>Roadmap of future improvements:</b> Additional Mapping tools / Buttons to change layout. <br>
 <br>
 License information: Copyright <2021> <MIT/Brendan Cusack><br>
 <br>
